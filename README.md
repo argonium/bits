@@ -1,4 +1,4 @@
-# bits
+# Bits
 Bits is a single Java class that makes it very easy to perform bit-related operations on a byte. The following operations are supported:
 
 * Clear a bit or a range of bits
